@@ -39,3 +39,7 @@ How Google Handles JavaScript throughout the indexing process: https://vercel.co
 
 Linking and Navigating: https://nextjs.org/docs/app/building-your-application/routing/linking-and-navigating  
 
+***
+
+File System Conventions: https://nextjs.org/docs/app/api-reference/file-conventions  
+File System Conventions (layout): https://nextjs.org/docs/app/api-reference/file-conventions/layout#root-layouts  
