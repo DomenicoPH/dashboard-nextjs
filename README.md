@@ -43,3 +43,9 @@ Linking and Navigating: https://nextjs.org/docs/app/building-your-application/ro
 
 File System Conventions: https://nextjs.org/docs/app/api-reference/file-conventions  
 File System Conventions (layout): https://nextjs.org/docs/app/api-reference/file-conventions/layout#root-layouts  
+
+
+***  
+
+URLSearchParams: https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams  
+Caching in Next.js: https://nextjs.org/docs/app/deep-dive/caching  
