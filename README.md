@@ -49,3 +49,8 @@ File System Conventions (layout): https://nextjs.org/docs/app/api-reference/file
 
 URLSearchParams: https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams  
 Caching in Next.js: https://nextjs.org/docs/app/deep-dive/caching  
+
+***
+
+Security in Next.js: https://nextjs.org/blog/security-nextjs-server-components-actions  
+
