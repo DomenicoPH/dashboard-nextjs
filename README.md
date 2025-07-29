@@ -54,3 +54,16 @@ Caching in Next.js: https://nextjs.org/docs/app/deep-dive/caching
 
 Security in Next.js: https://nextjs.org/blog/security-nextjs-server-components-actions  
 
+***
+
+## Manejo de errores
+https://nextjs.org/docs/app/getting-started/error-handling  
+
+- error.js / error.ts: https://nextjs.org/docs/app/api-reference/file-conventions/error  
+- notFound(): https://nextjs.org/docs/app/api-reference/functions/not-found  
+- not-found.js / not-found.ts: https://nextjs.org/docs/app/api-reference/file-conventions/not-found
+
+***
+
+FormData: https://developer.mozilla.org/es/docs/Web/API/FormData  
+
