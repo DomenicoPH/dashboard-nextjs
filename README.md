@@ -67,3 +67,9 @@ https://nextjs.org/docs/app/getting-started/error-handling
 
 FormData: https://developer.mozilla.org/es/docs/Web/API/FormData  
 
+***
+
+## Accessibility
+
+Learn Accessibility: https://web.dev/learn/accessibility/  
+
